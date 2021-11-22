@@ -28,3 +28,4 @@ remote.originn.url=https://github.com/breno84/aula1-github
 remote.originn.fetch=+refs/heads/*:refs/remotes/originn/*
 remote.orign.url=https://github.com/breno84/aula-github
 remote.orign.fetch=+refs/heads/*:refs/remotes/orign/*
+
